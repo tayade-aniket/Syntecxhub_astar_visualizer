@@ -29,7 +29,8 @@ The user first creates a maze by placing the **start node, goal node, and walls*
 
 This interactive grid allows experimentation with different maze structures before running the algorithm.
 
-![Maze Setup](screenshots/maze_setup.png)
+![Maze Setup](screenshots/1%20intitalizing%20start%20and%20end%20points.png)
+![Maze Setup](screenshots/2%20adding%20walls.png)
 
 ---
 
@@ -42,7 +43,7 @@ After pressing **SPACE**, the A* algorithm begins exploring the maze.
 
 This animation shows how the search expands through the grid while prioritizing promising paths.
 
-![Node Expansion](screenshots/node_expansion.png)
+![Node Expansion](screenshots/3%20finding%20path.png)
 
 ---
 
@@ -52,7 +53,7 @@ Once the goal node is reached, the algorithm reconstructs the optimal route.
 
 The **purple path** represents the shortest path found by the A* algorithm.
 
-![Final Path](screenshots/final_path.png)
+![Final Path](screenshots/4%20finding%20final%20path.png)
 
 ---
 
@@ -159,7 +160,7 @@ A window will open displaying the interactive grid.
 
 # Controls
 
-|          Action    |      Control      |
+| Action             | Control           |
 |--------------------|-------------------|
 | Place Start Node   | First Left Click  |
 | Place Goal Node    | Second Left Click |
