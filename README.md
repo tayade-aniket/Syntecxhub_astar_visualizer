@@ -128,12 +128,12 @@ This heuristic ensures the algorithm remains both **efficient and optimal**.
 
 Clone the repository:
 ```bash
-    git clone https://github.com/tayade-aniket/astar-visualizer.git
+    git clone https://github.com/tayade-aniket/Syntecxhub_astar_visualizer
 ```
 
 Navigate to the project directory:
 ```bash
-    cd astar_visualizer
+    cd Syntecxhub_astar_visualizer
 ```
 
 Install the required dependency:
